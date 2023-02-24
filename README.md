@@ -12,7 +12,7 @@ The first thing you will need to do is download the OS Terrain 50 dataset (~400M
 6. Fill out the form (they will send you a download link via enail)
 7. Click continue.
 8. When you have downloaded the data you should end up with a directory called "terr50_gagg_gb", containing another directory called "data" and a file called "licence.txt".
-9. Place the "terr50_gagg_gb" directory within the TopoView£D directory.
+9. Place the "terr50_gagg_gb" directory within the TopoView3D directory.
 
 Using a similar process and making some simple tweak you can use other datasets provided by OS OpenData.
 
